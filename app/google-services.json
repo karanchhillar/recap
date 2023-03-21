@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "420728928892",
+    "firebase_url": "https://recap-68711-default-rtdb.firebaseio.com",
+    "project_id": "recap-68711",
+    "storage_bucket": "recap-68711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420728928892:android:15b630d61d0b86bc5ba7f9",
+        "android_client_info": {
+          "package_name": "com.example.recap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420728928892-sfqnbmetak5d22bdpe6iimkuqb2k09ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPIY69T1gTFs5uCTQrywtQqEwZlglbhBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420728928892-sfqnbmetak5d22bdpe6iimkuqb2k09ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
